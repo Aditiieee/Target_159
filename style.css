@@ -1,0 +1,16 @@
+
+
+body{
+    background: #F5D6B4;
+    display: grid;
+    grid-template-columns: repeat(5, 50px);
+    place-content: center;
+    padding: 200px;
+  }
+  div {
+    width: 50px;
+    aspect-ratio: 1;
+  }
+  .orange{
+  background: #D86F45;
+  }
