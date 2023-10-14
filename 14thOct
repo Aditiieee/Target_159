@@ -1,0 +1,44 @@
+<div class="item1"></div>
+<div></div>
+<div></div>
+<div></div>
+<div class="item1"></div>
+
+<div class="item1"></div>
+<div class="item1"></div>
+<div></div>
+<div class="item1"></div>
+<div class="item1"></div>
+
+<div></div>
+<div class="item1"></div>
+<div class="item1"></div>
+<div class="item1"></div>
+<div></div>
+
+<div class="item1"></div>
+<div class="item1"></div>
+<div></div>
+<div class="item1"></div>
+<div class="item1"></div>
+
+<div class="item1"></div>
+<div></div>
+<div></div>
+<div></div>
+<div class="item1"></div>
+<style>
+  body{
+    background-color: #A9C482;
+    display: grid;
+    grid-template-columns: repeat(5, 50px);
+    place-content: center;
+  }
+  div {
+    width: 50px;
+    aspect-ratio: 1;
+  }
+  .item1{
+    background: #2D696F;
+  }
+</style>
