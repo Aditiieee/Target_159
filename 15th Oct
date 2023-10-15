@@ -1,0 +1,38 @@
+<div id="center">
+  <div id="left"></div>
+</div>
+<div id="right"></div>
+<style>
+  body{
+    background: radial-gradient(125px circle at center,#F3EAD2 76%, #42A5F5 76%, #42A5F5 100%, #F3EAD2 100%)
+  }
+  #center {
+    width: 30px;
+    height: 200px;
+    background: #42A5F5;
+    position: fixed;
+    left: 185;
+    top: 50;
+    
+  }
+  #left {
+    width: 30px;
+    height: 95px;
+    position: fixed;
+    top: 155;
+    left: 180;
+    background-color: #42A5F5;
+    transform-origin: top;
+    transform: rotate(45deg);
+  }
+  #right {
+    width: 30px;
+    height: 98px;
+    position: fixed;
+    top: 155;
+    left: 189;
+    background-color: #42A5F5;
+    transform-origin: top;
+    transform: rotate(-46deg);
+  }
+</style>
