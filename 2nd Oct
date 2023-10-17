@@ -1,0 +1,13 @@
+<div></div>
+<style>
+  *{
+    background: radial-gradient(101px circle at 193px 167px, #230259 100%, #B5D1FB);
+  }
+ div {
+   border: 150px solid transparent;
+   border-bottom-color: #8819F6;
+   position: fixed;
+   top: -125;
+   left: 50;
+  }
+</style>
