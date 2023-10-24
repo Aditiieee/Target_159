@@ -1,0 +1,15 @@
+<style>
+  *{
+    background: #F0CD48;
+  }
+  body{
+    width: 100px;
+    height: 100px;
+    border: 100px solid #D86F45;
+    background: #5F3829;
+    padding: 0 250;
+    background-clip: content-box;
+    rotate: 45deg;
+    margin: 0 -200;   
+  }
+</style>
