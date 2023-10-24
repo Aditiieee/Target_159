@@ -1,0 +1,19 @@
+<div></div>
+<style>
+  *{
+    background: #E3B52E;
+  }
+  body{
+    background: repeating-linear-gradient(90deg, #8C292A, #8C292A 30px, #E3B52E 30px, #E3B52E 60px);
+    margin: 0 125;
+  }
+  div{
+    backface-visibility: hidden;
+    width: 90;
+    height: 90;
+    border: 30px solid #8C292A;
+    rotate: 45deg;
+    position: fixed;
+    top: 74;
+  }
+</style>
