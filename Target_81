@@ -1,0 +1,27 @@
+<div id="a"></div>
+<div id="od"></div>
+<style>
+  *{
+    background: #191919;
+    position: absolute;
+  }
+  #a
+  {
+    width: 40px;
+    height: 40px;
+    background: #191919;
+    border-radius: 50%;
+    top: 134;
+    left:49;
+    box-shadow: 82px 0 #191919, 164px 0 #191919, 246px 0 #191919, 0 0 0 20px #714B67, 82px 0 0 20px #8F8F8F, 164px 0 0 20px #8F8F8F, 246px 0 0 20px #8F8F8F
+  }
+  #od
+  {
+    width: 21px;
+    height: 68px;
+    background: #8F8F8F;
+    border-radius: 50px;
+    top: 94px;
+    left: 170px
+  }
+</style>
