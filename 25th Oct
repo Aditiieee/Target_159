@@ -1,0 +1,19 @@
+<p><p a>
+<style>
+  *{
+    background: #0D004C;
+  }
+  body{
+    margin: 30 80;
+  }
+ p{
+    background: linear-gradient(#0D004C 50%, #B8B7CC 50%);
+    background-size: 100px 60px;
+    width: 120px;
+    height: 180px;
+    display: inline-block;
+  }
+  [a]{
+    margin: 0 0 46;
+  }
+</style>
