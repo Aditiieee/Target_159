@@ -1,0 +1,12 @@
+<div></div>
+<style>
+ *{
+    background: #CBE8DD;
+  }
+  body{
+   border: 125px solid transparent;
+    border-bottom: 140px solid #007192;
+    margin: -45 74;
+    box-shadow: 0 45px #007192,
+  }
+</style>
