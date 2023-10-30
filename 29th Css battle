@@ -1,0 +1,12 @@
+<div a></div><div b></div>
+<style>
+  body{
+      background:radial-gradient(circle,#E3745D 25px, #872626 25px 65px, #E3745D 65px 85px, #872626 85px)
+  }
+  [a]{
+    width:20px; height:60; background:#E3745D;border-radius:50px;margin:45 182; box-shadow: 0 150px #E3745D;
+  }
+  [b]{
+    width:60; height:20; background:#E3745D;border-radius:50px;margin:-10 87; box-shadow:150px 0 #E3745D;
+  }
+</style>
