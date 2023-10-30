@@ -1,0 +1,21 @@
+<div></div>
+<style>
+  *{
+    background: #F58220;
+  }
+  body{
+    background:#fff;
+    margin: 90;
+    border-radius:99px;
+      box-shadow: inset 0 0 0 30px #F58220, 0 0 0 30px #FFFFFF;
+  }
+  div{
+    width:30;
+    height:120;
+    background:#fff;
+    position:fixed;
+    top:90;
+    left:185;
+    box-shadow:0 -30px #F58220,0 30px #F58220;
+  }
+</style>
