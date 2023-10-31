@@ -1,0 +1,22 @@
+<div a></div><div b></div>
+<style>
+ *{
+  background: #763258;
+   position:absolute;
+  }
+  [a]{
+    width:60;
+    height:60;
+    background:#FAD5E5;
+    inset: 52px 102px;
+    box-shadow: 0 120px #F067A6, 120px 0 #F067A6, 60px 60px #FAD5E5, 120px 120px #FAD5E5;
+  }
+  [b]{
+    width:30;
+    height:30;
+    background:#763258;
+    inset: 82px 102px;
+    box-shadow: 0 120px, 120px 0, 60px 60px, 120px 120px;
+    color:#763258;
+  }
+</style>
